@@ -4,7 +4,8 @@ This repository contains the coursework to create and compare new and pretrained
 ## How to start?
 ````bash
 git clone https://github.com/WiebkeFr/rbg-image-classifier-keras.git # in google drive directory
-# open files in Google Collab
+unzip -d <output-dir>/ rgb-images.zip
+# open ipynb-files in Google Collab
 # adjust file-paths according to location
 # run code segments
 ````
